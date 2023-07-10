@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Java-Techie-jt/cloud-config-server
+          uri: https://github.com/Vishwa4895/vishwa-microservices-config-repo.git
 
 server:
   port: 9196
